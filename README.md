@@ -10,7 +10,7 @@ Welcome to my portfolio repository! This project showcases my skills, experience
 - Contact Information: Ways to reach me for collaboration or opportunities
 
  Technologies Used
-This portfolio was built using [e.g. HTML5, CSS3,etc.]
+This portfolio was built using e.g. HTML5, CSS3,etc.
 
  Installation & Setup
 To run this portfolio locally:
@@ -33,9 +33,6 @@ portfolio/
 ├── projects/		            Individual project pages
 └── README.md                 This file
 ```
-
- Future Enhancements
-- [List any planned features or improvements]
 
  Contact
 - Email: nawaladitya06@gmail.com
